@@ -1,4 +1,4 @@
 pLua
 ====
 
-personal documents!
+personal documents.
